@@ -25,7 +25,7 @@
 
 
 
-# How Does It Work 
+# Usage 
 
 ### Application allows users to create and save notes.
 ### Application allows users to view previously saved notes.
@@ -33,7 +33,7 @@
 
 
 
-# Find it here!
+#Deployed at:
 
 https://notesy-takesy.herokuapp.com/
 
